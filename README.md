@@ -3,7 +3,7 @@
 A Simple Telegram Bot By @Tellybots to add Subtitle Files in Video
 
 # Features
-- Force Sub Button Added Soon
+- Force Sub Button Added
 - Support Media Type Such as Mp4,Mkv,Webm etc 
 - Auto Detect Media For Merging Subtitle
 - Can add Subtitle in Any Video
@@ -57,4 +57,4 @@ Dan For His Pyrogram Library
 <a href="https://github.com/SpEcHiDe/AnyDLBot">
 Shrimadhav Uk For His Some Anydlbot Code[Just Scrapped Some Code From it]
 
-#Credit : Remaining Credit Coming Soon
+#~Credit : Remaining Credit Coming Soon
