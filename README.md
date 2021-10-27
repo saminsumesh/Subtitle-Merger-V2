@@ -7,7 +7,7 @@ A Simple Telegram Bot By @Tellybots to add Subtitle Files in Video
 - Support Media Type Such as Mp4,Mkv,Webm etc 
 - Auto Detect Media For Merging Subtitle
 - Can add Subtitle in Any Video
-- And More Features Coming Soon
+- And new Features Coming soon 🔜 After December
 
 # Demo 
 <a href="https://t.me/tellyconverterprobot"><img src="https://telegra.ph/file/f83053e0b64f3a10a9f0a.jpg"></a>
