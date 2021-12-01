@@ -1,4 +1,4 @@
-### ©️ Video-subtitle-merger
+###        ©️ Video-subtitle-merger ©️ 
 
 A Simple Telegram Bot By @Tellybots to add Subtitle Files in Video
 
