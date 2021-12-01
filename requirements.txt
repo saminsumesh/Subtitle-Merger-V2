@@ -1,0 +1,16 @@
+pyrogram==1.2.9
+tgcrypto==1.2.2
+requests==2.24.0
+aiofiles
+ffmpeg-python
+asyncio
+aiohttp
+beautifulsoup4
+hachoir
+numpy
+Pillow
+olefile
+filetype
+motor
+https://github.com/Tinche/aiofiles/archive/master.zip
+dnspython
