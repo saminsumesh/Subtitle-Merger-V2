@@ -5,26 +5,26 @@ class Translation(object):
     START_TEXT = """
 <b>Hey</b><b> {} </b>
 
-<b>I am Telegram Most Powerful Url Uploader Bot</b>
+<b>I am Telegram Video-Sub-Muxer Bot</b>
 
-<b>I can Upload Any Link in File or Video</b>
+<b>I can Merge any Srt or Txt Subtitles File in Video</b>
 
 <b>Use Help Command to Know How to Use me</b>
 
 <b>Made With 💕 By</b><b> @Tellybots_4u</b>
 """
     HELP_TEXT = """
-<b>Link to Media or File</b>
-➠ <b>Send a link for upload to telegram file or media.</b>
+<b>Method First</b>
+➠ <b>Just Send a Video</b>
 
-<b>Set Thumbnail</b>
-➠ <b>Send a photo to make it as permanent thumbnail.</b>
+<b>Method Second</b>
+➠ <b>Wait Sometimes Till its Completed</b>
 
-<b>Deleting Thumbnail</b>
-➠ <b>Send /delthumb to delete thumbnail.</b>
+<b>Method Third</b>
+➠ <b>Send Srt or Txt Subtitles Files.</b>
 
-<b>Show Thumbnail</b>
-➠ <b>Send /showthumb to view custom thumbnail.</b>
+<b>Method Fourth</b>
+➠ <b>Wait till Completing after that Click Command /softmux or /hardmux</b>
 
 <b>Made With 💕 By</b><b> @Tellybots_4u</b>
 """
