@@ -21,7 +21,7 @@ Deploy Your Own Bot 💕 **Star 🎉 Fork 🍴 & Deploy**
 ### Self Host
 
 
-# License
+### License
 ```
 MIT License
 
