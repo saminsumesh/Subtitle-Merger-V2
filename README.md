@@ -47,8 +47,21 @@ SOFTWARE.
 
 ```
 
-# Support 
+## Support 
 <a href="https://t.me/Tellybots_support"><img src="https://img.shields.io/badge/Support_Group-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="https://t.me/tellybots_4u"><img src="https://img.shields.io/badge/Updates_Channel-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
+## Credits
+
+<p align="left">
+  <a href="https://github.com/pyrogram/pyrogram">
+    <img alt="Pyrogram" src ="https://i.imgur.com/BOgY9ai.png" width="104.75" height="32"/>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://docs.mongodb.com">
+    <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+  </a>
+</p>
 
 
