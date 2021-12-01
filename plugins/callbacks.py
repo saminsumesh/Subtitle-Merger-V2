@@ -6,14 +6,14 @@ else:
     from config import Config
 
 from script import Script
-from pyrogram import Client
+from pyrogram import Client as Bot
 from pyrogram.types import InlineKeyboardMarkup
 from pyrogram.types import InlineKeyboardButton
 
-@Client.on_callback_query()
+
+@Bot.on_callback_query()
 async def button(bot, update):
-    if "|" in update.data:
-    elif update.data == "home":
+    if update.data == "home":
         await update.message.edit_text(
             text=Script.START_TEXT.format(update.from_user.mention),
             reply_markup=Script.START_BUTTONS,
@@ -27,7 +27,7 @@ async def button(bot, update):
         )
     elif update.data == "about":
         await update.message.edit_text(
-            text=Script.ABOUT_TEXT,
+            text=Script.ABOUT_TEXT.format((await bot.get_me()).username),
             reply_markup=Script.ABOUT_BUTTONS,
             disable_web_page_preview=True
         )
