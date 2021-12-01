@@ -74,7 +74,7 @@ async def broadcast_(c, m):
                 failed += 1
             
             if sts == 400:
-                await clinton.delete_user(user['id'])
+                await tellybots.delete_user(user['id'])
             
             done += 1
             if broadcast_ids.get(broadcast_id) is None:
