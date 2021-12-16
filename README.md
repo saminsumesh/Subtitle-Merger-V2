@@ -10,7 +10,7 @@ A Simple Telegram Bot By @Tellybots to add Subtitle Files in Video
 - Support New Database Mongodb
 
 ### Demo 
-<a href="https://t.me/subtitlemuxerbot"><img src="https://t.me/SubtitleMuxerBot"></a>
+<a href="https://t.me/subtitlemuxerbot"><img src="https://telegra.ph/file/3e552b88b4e197f51c0ce.jpg"></a>
 
 ### Deploy
 Deploy Your Own Bot 💕 **Star 🎉 Fork 🍴 & Deploy**
