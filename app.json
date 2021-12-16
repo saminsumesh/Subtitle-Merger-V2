@@ -26,7 +26,20 @@
         "OWNER_ID": {
             "description": "Get It From IDFinderRobot by Pressing id command",
             "required": "True"
-        },
+       },
+       "DATABASE_URL": {
+            "description": "Your MongoDB URI",
+            "value": ""
+       },
+       "UPDATE_CHANNEL": {
+            "description": "For Force Subscribe. Paste your Update channel USERNAME (without @)..",
+            "value": "",
+            "required": false
+       },
+       "SESSION_NAME": {
+            "description": "Your Session Name",
+            "value": "URL-UPLOADER"
+       },
         "UPDATES_CHANNEL": {
             "description": "Get it From IDFinderRobot By Forwarding Msg From Channel to get id",
             "required": "True"
@@ -41,4 +54,3 @@
 		}
 	]
 }
-
