@@ -7,7 +7,7 @@ logging.getLogger("pyrogram").setLevel(logging.WARNING)
 
 import os
 import time
-from chat import Chat
+from translation import Translation
 from config import Config
 from pyrogram import Client, filters
 from helper_func.progress_bar import progress_bar
