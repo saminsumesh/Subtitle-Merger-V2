@@ -18,7 +18,7 @@ from urllib.parse import quote, unquote
 
 db = Db()
 
-@Client.on_message(filters.document & check_user & filters.private)
+@Client.on_message(filters.document & filters.private)
 async def save_doc(client, message):
 
     chat_id = message.from_user.id
@@ -100,7 +100,7 @@ async def save_doc(client, message):
         os.remove(Config.DOWNLOAD_DIR+'/'+tg_filename)
 
 
-@Client.on_message(filters.video & check_user & filters.private)
+@Client.on_message(filters.video & filters.private)
 async def save_video(client, message):
 
     chat_id = message.from_user.id
@@ -157,7 +157,7 @@ async def save_video(client, message):
             )
 
 
-@Client.on_message(filters.text & filters.regex('^http') & check_user)
+@Client.on_message(filters.text & filters.regex('^http'))
 async def save_url(client, message):
 
     chat_id = message.from_user.id
